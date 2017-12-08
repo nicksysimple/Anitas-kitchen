@@ -156,3 +156,18 @@ font-weight: bold;
 .food .jumbo img{
   padding: 20px;
 }
+.food .row #fast{
+  background-color: white;
+}
+.food .row #fast p{
+  color: #F15A29;
+}
+.food .row #drinks{
+  background-color: grey;
+}
+.food .row #chicken{
+  background-color: grey;
+}
+.food .row #rice{
+  background-color: grey;
+}
