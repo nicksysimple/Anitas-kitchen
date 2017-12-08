@@ -141,3 +141,18 @@ font-weight: bold;
   height: 40px;
   font-size: 15px;
 }
+.food{
+  background-image: url(../images/foodsBg.jpg);
+  min-height: 400px;
+  overflow: hidden;
+}
+.food .jumbotron{
+  margin-top: 100px;
+  min-height: 150px;
+}
+.food .jumbo{
+  margin-left: 100px;
+}
+.food .jumbo img{
+  padding: 20px;
+}
