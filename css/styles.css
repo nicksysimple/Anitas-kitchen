@@ -171,3 +171,30 @@ font-weight: bold;
 .food .row #rice{
   background-color: grey;
 }
+.row p{
+  color: white;
+  padding: 20px;
+}
+.advert{
+  background-image: url(../images/subscribe.jpg);
+  height: 300px;
+}
+.advert h2{
+  color: white;
+  font-weight: bold;
+  padding: 50px;
+  text-align: center;
+}
+.advert button{
+  background-color: #F15A29;
+  height: 50px;
+  width: 120px;
+  border: solid 0px;
+  color: white;
+  font-size: 25px;
+}
+.advert input{
+  background-color: grey;
+  margin-left: 400px;
+  border: solid 0px;
+}
