@@ -198,3 +198,27 @@ font-weight: bold;
   margin-left: 400px;
   border: solid 0px;
 }
+footer{
+  background-color:  #F15A29;
+  height: 280px;
+}
+footer .juu{
+  margin-left: 530px;
+  padding: 20px;
+  color: white;
+  margin-top: 0px;
+  font-size: 35px;
+}
+footer .word{
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+footer .media{
+  display: inline;
+  padding: 15px;
+}
+footer .last{
+  text-align: center;
+  color: white;
+}
