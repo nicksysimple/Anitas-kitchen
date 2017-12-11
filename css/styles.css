@@ -132,7 +132,8 @@ font-weight: bold;
   float: right;
   margin-right: 100px;
   overflow: hidden;
-   box-shadow: 2px grey;
+   box-shadow: 5px 10px #888888;
+   opacity: 0px;
 }
 .drink button{
   background-color: white;
