@@ -172,30 +172,30 @@ font-weight: bold;
   background-color: grey;
 }
 .row p{
-  color: white;
-  padding: 20px;
-}
-.customers .box{
-  border: 1px grey;
-  margin-top: 20px;
-  height: 250px;
-  width: 80%;
-  margin-left: 100px;
-}
-.customers h1{
-  color: #F15A29;
-}
-.happy{
-  float: left;
-  text-align: center;
-}
-.about{
-  float: right;
-  width: 40%;
-}
-.advert{
-  background-image: url(../images/subscribe.jpg);
-  height: 300px;
+   color: white;
+   padding: 20px;
+ }
++.customers .box{
++  border: 1px grey;
++  margin-top: 20px;
++  height: 250px;
++  width: 80%;
++  margin-left: 100px;
++}
++.customers h1{
++  color: #F15A29;
++}
++.happy{
++  float: left;
++  text-align: center;
++}
++.about{
++  float: right;
++  width: 40%;
++}
+ .advert{
+   background-image: url(../images/subscribe.jpg);
+   height: 300px;
 }
 .advert h2{
   color: white;
@@ -239,4 +239,14 @@ footer .media{
 footer .last{
   text-align: center;
   color: white;
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: white;
+  }
+  .column {
+    width: 220px;
+    float: left;
+    padding: 15px;
+  }
 }
