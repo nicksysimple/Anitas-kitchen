@@ -5,6 +5,7 @@
   background-image: url(../images/landing.jpg);
   height: 500px;
 }
+
 .row{
   margin-top: 0px;
 }
@@ -176,24 +177,22 @@ font-weight: bold;
    color: white;
    padding: 20px;
  }
-+.customers .box{
-+  border: 1px grey;
-+  margin-top: 20px;
-+  height: 250px;
-+  width: 80%;
-+  margin-left: 100px;
-+}
-+.customers h1{
-+  color: #F15A29;
-+}
-+.happy{
-+  float: left;
-+  text-align: center;
-+}
-+.about{
-+  float: right;
-+  width: 40%;
-+}
+ .customers{
+   border: 2px solid grey;
+   margin-top: 40px;
+   height: 250px;
+   width: 1200px;
+  margin-left: 50px;
+  margin-bottom: 40px;
+ }
+ .customers .happy{
+   float: left;
+   margin-left:  80px;
+ }
+ .customers .about{
+   float: right;
+   width: 40%;
+ }
  .advert{
    background-image: url(../images/subscribe.jpg);
    height: 300px;
